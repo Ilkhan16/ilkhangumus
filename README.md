@@ -1,41 +1,19 @@
+# 💫 About Me:
+⚡ Fun fact
 
-<h4 align="center">- Hi , I'm Ilkhan
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/İlkhan#4717) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ilkhan.gumus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/ilkhan-gümüş-99452624a/) 
 
-## I'm a Student 👨‍🎓, Full Stack Developer 🚀, !
-- 🔭 I’m currently working on a large and special application.
-- 🌱 I’m currently learning 😂
-- 👯 I’m looking to collaborate with other Flutter developer 👩‍💻 and mobile app designers 🎨
-- 🤔 I’m looking for help with Flutter front-end developer
-- 🥅 2023 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
-- ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟,  and cycling 🚴‍♀️
-  ### 📩 Connect with me:
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ilkhan16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ilkhan16&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilkhan16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/Ilkhan16) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/ilkhan.gumus/) 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="250" />
- [![Github Badge](https://img.shields.io/badge/-Linkedin-C5551?style=quare&labelColor=C5551&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/ilkhan-gümüş-99452624a/) 
+### Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-### 🔧 Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
-[<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
-<br />
-
-[flutter]: https://flutter.dev/
-[vsCode]: https://code.visualstudio.com/
-[git]: https://git-scm.com/
-[android]: https://www.android.com/
-[github]: https://github.com/IbrahimTalha0
-[python]: https://www.python.org/
-[ios]: https://www.apple.com/ios/ios-14/
-[xd]: https://www.adobe.com/products/xd.html
-
-<br />
-<br />
-  
-
-  [![Github stats 2](https://github-readme-stats.vercel.app/api?username=Ilkhan16&show_icons=true&theme=radical)
+---
+[![](https://visitcount.itsvg.in/api?id=Ilkhan16&icon=0&color=0)](https://visitcount.itsvg.in)
